@@ -1,15 +1,17 @@
-<h1 align="center">Hi 👋, I'm Sevinj Yagubzade</h1>
-<h3 align="center">A passionate UX UI designer and frontend developer.</h3>
+<h1 align="center">Hey there 👋, I'm Sevinj Yagubzade</h1>
+<h3 align="center">IT specialist at Expressbank OJSC</h3>
+<h3 align="center">UX UI Designer and Front-end (entry-level) developer.</h3>
 
 - 🌱 I’m currently learning **React Js**
 
 - 📫 How to reach me **marsblerre@gmail.com**
 
-<p>It’s been 3 years now I’m working as a UI UX designer and learning the frontend development field to become a web developer. Throughout the years I succeeded and gained knowledge of markup languages like HTML, CSS, and JavaScript programming language and libraries like React JS, JQuery.
-I'm available for freelance design work opportunities. In addition, I have already engaged in real-time projects and worked in a team environment.
+<p>It’s been 3 years now I’m working as a UI UX designer and learning the frontend development field to become a web developer. Throughout the years I succeeded and gained knowledge of markup languages like HTML, CSS, and JavaScript programming language and libraries like React JS, Redux Toolkit, JQuery, Bootstrap, MUI etc.
+I'm available for freelance work opportunities. In addition, I have already engaged in real-time projects and worked in a team environment.
 You can contact me using the following e-mails. <br>
 marsblerre@gmail.com <br>
-syzade@icloud.com</p>
+syzade@icloud.com <br>
+se.yagubzade@expressbank.az </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
