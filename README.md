@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **marsblerre@gmail.com**
 
-<p>It’s been 3 years now I am m working as a UI UX designer and learning the frontend development field to become a web developer. Throughout the years I succeeded and gained knowledge of markup languages like HTML, CSS, and JavaScript programming language and libraries like React JS, Redux Toolkit, JQuery, Bootstrap, MUI, etc.
+<p>I am a software engineer and I work as a front-end developer at Expressbank OJSC. I have a quite experience in the User Experience and User Interface field. Throughout the years I succeeded and gained knowledge of front-end technologies such as HTML-CSS(responsive), JavaScript programming language, Typescript, React JS, Redux Toolkit, JQuery, Bootstrap, MUI, ANT design, on the back-end side I can work with Node.js, Express.js, Mongoose, MongoDB etc.
 I'm available for freelance work opportunities. In addition, I have already engaged in real-time projects and worked in a team environment.
 You can contact me using the following e-mails. <br>
 marsblerre@gmail.com <br>
