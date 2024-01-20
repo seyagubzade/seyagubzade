@@ -1,6 +1,6 @@
 <h1 align="center">Hey there 👋, I'm Sevinj Yagubzade</h1>
 <h3 align="center">IT specialist at Expressbank OJSC</h3>
-<h3 align="center">UX UI Designer and Front-end (entry-level) developer.</h3>
+<h3 align="center">UX UI Designer and Front-end (junior) developer.</h3>
 
 - 🌱 I’m currently learning **React Js**
 
