@@ -4,7 +4,9 @@
 
 - 🌱 I’m currently learning **React Js**
 
-- 📫 How to reach me **marsblerre@gmail.com**
+- 📫 How to reach me at
+- **seyagubzade@gmail.com**
+- **marsblerre@gmail.com**
 
 <p>I am a software engineer and I work as a front-end developer at Expressbank OJSC. I have a quite experience in the User Experience and User Interface field. Throughout the years I succeeded and gained knowledge of front-end technologies such as HTML-CSS(responsive), JavaScript programming language, Typescript, React JS, Redux Toolkit, JQuery, Bootstrap, MUI, ANT design, on the back-end side I can work with Node.js, Express.js, Mongoose, MongoDB etc.
 I'm available for freelance work opportunities. In addition, I have already engaged in real-time projects and worked in a team environment.
